@@ -38,7 +38,6 @@ lib/
 | Carrossel                    | `carousel_slider` + `smooth_page_indicator`        |
 | Comunicação entre telas      | `Navigator.push()` passando objetos `Receita`      |
 | Persistência local (SQLite)  | `sqflite` via `DatabaseService` (Singleton)        |
-| App abre sem erros           | ✅                                                 |
 | Navegação funciona           | ✅ NavigationBar + rotas                           |
 | Interface clara              | ✅ Tema consistente, cores por categoria           |
 | Código organizado            | ✅ models / services / screens / widgets / utils   |
@@ -113,4 +112,4 @@ CREATE TABLE receitas (
 ---
 
 *Trabalho A1 — Desenvolvimento de Aplicativo Mobile*  
-*Disciplina: Desenvolvimento Mobile — UNITINS*
+*Disciplina: Programação para Dispositivos Móveis II — UNITINS*

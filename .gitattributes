@@ -1,0 +1,11 @@
+* text=auto
+
+# Dart/Flutter
+*.dart text
+*.yaml text
+*.yml text
+*.md text
+
+# Scripts
+*.sh text eol=lf
+*.bat text eol=crlf
